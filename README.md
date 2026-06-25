@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Third Year B.Tech (Artificial Intelligence)
+* 🎓 Fourth Year B.Tech (Artificial Intelligence)
 * 📊 Interested in Artificial Intelligence, Machine Learning, Data Analytics and Full Stack Development
 * 🐍 Strong foundation in Python, SQL, Power BI and Data Visualization
 * 🌱 Currently learning React, FastAPI, System Design and Data Structures & Algorithms
